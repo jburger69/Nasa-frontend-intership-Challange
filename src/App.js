@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 import { getPhotos } from './actions/NasaPhotos';
 
 import PhotoCard from './components/PhotoCard';
+import Header from './components/Header';
 
 class App extends React.Component {
 
@@ -15,7 +16,9 @@ class App extends React.Component {
   render() {
     return(
       <div>
-        <PhotoCard  photos={this.props.photos}/>
+        <Header />
+        <h1>Hello, Welcome to Nasa's Photo album</h1>
+        {this.props.photos.map(photo => photo.photos.map(data => <PhotoCard  photos={data}/>))}
       </div>
     )
   }
