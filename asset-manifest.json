@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Nasa-frontend-intership-Challange/static/css/main.0671fe5b.chunk.css",
-    "main.js": "/Nasa-frontend-intership-Challange/static/js/main.dd994056.chunk.js",
-    "main.js.map": "/Nasa-frontend-intership-Challange/static/js/main.dd994056.chunk.js.map",
-    "runtime-main.js": "/Nasa-frontend-intership-Challange/static/js/runtime-main.cd127766.js",
-    "runtime-main.js.map": "/Nasa-frontend-intership-Challange/static/js/runtime-main.cd127766.js.map",
-    "static/js/2.9ce34b39.chunk.js": "/Nasa-frontend-intership-Challange/static/js/2.9ce34b39.chunk.js",
-    "static/js/2.9ce34b39.chunk.js.map": "/Nasa-frontend-intership-Challange/static/js/2.9ce34b39.chunk.js.map",
-    "index.html": "/Nasa-frontend-intership-Challange/index.html",
-    "static/css/main.0671fe5b.chunk.css.map": "/Nasa-frontend-intership-Challange/static/css/main.0671fe5b.chunk.css.map",
-    "static/js/2.9ce34b39.chunk.js.LICENSE.txt": "/Nasa-frontend-intership-Challange/static/js/2.9ce34b39.chunk.js.LICENSE.txt"
+    "main.css": "/Nasa-frontend-intership-Challenge/static/css/main.0671fe5b.chunk.css",
+    "main.js": "/Nasa-frontend-intership-Challenge/static/js/main.dd994056.chunk.js",
+    "main.js.map": "/Nasa-frontend-intership-Challenge/static/js/main.dd994056.chunk.js.map",
+    "runtime-main.js": "/Nasa-frontend-intership-Challenge/static/js/runtime-main.565de116.js",
+    "runtime-main.js.map": "/Nasa-frontend-intership-Challenge/static/js/runtime-main.565de116.js.map",
+    "static/js/2.9ce34b39.chunk.js": "/Nasa-frontend-intership-Challenge/static/js/2.9ce34b39.chunk.js",
+    "static/js/2.9ce34b39.chunk.js.map": "/Nasa-frontend-intership-Challenge/static/js/2.9ce34b39.chunk.js.map",
+    "index.html": "/Nasa-frontend-intership-Challenge/index.html",
+    "static/css/main.0671fe5b.chunk.css.map": "/Nasa-frontend-intership-Challenge/static/css/main.0671fe5b.chunk.css.map",
+    "static/js/2.9ce34b39.chunk.js.LICENSE.txt": "/Nasa-frontend-intership-Challenge/static/js/2.9ce34b39.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd127766.js",
+    "static/js/runtime-main.565de116.js",
     "static/js/2.9ce34b39.chunk.js",
     "static/css/main.0671fe5b.chunk.css",
     "static/js/main.dd994056.chunk.js"
